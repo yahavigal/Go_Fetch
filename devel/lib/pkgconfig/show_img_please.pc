@@ -1,0 +1,8 @@
+prefix=/home/yoni/catkin_ws/devel
+
+Name: show_img_please
+Description: Description of show_img_please
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yoni/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/yoni/catkin_ws/devel
+
+Name: depth_camera_control
+Description: Description of depth_camera_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yoni/catkin_ws/devel/lib 
+Requires: 

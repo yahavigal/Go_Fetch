@@ -1,0 +1,22 @@
+\subsubsection usage Usage
+\verbatim
+<node name="offboard" pkg="offboard" type="offboard">
+  <param name="Pxy_p" type="double" value="1.1" />
+  <param name="Pz_p" type="double" value="1.1" />
+  <param name="Pxy_v" type="double" value="1.5" />
+  <param name="Pz_v" type="double" value="2.7" />
+  <param name="Ixy_v" type="double" value="0.05" />
+  <param name="Iz_v" type="double" value="0.0" />
+  <param name="Dxy_v" type="double" value="0.0" />
+  <param name="Dz_v" type="double" value="0.0" />
+  <param name="Pxy_a" type="double" value="0.001" />
+  <param name="Pz_a" type="double" value="0.002" />
+  <param name="Ixy_a" type="double" value="0.0" />
+  <param name="Iz_a" type="double" value="0.0" />
+  <param name="Dxy_a" type="double" value="0.0" />
+  <param name="Dz_a" type="double" value="0.0" />
+  <param name="Mz" type="double" value="0.0" />
+  <param name="Mxy" type="double" value="0.0" />
+</node>
+\endverbatim
+

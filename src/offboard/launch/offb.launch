@@ -1,0 +1,4 @@
+<launch>
+  <node name="interaction" pkg="offboard" type="interactive_mode.py" output="screen" />
+</launch>
+

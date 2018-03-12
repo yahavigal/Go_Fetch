@@ -1,0 +1,21 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~Pxy_p" : \b [double] Pxy for position PID min: 0.0, default: 1.1, max: 5.0
+- \b "~Pz_p" : \b [double] Pz for position PID min: 0.0, default: 1.1, max: 5.0
+- \b "~Pxy_v" : \b [double] Pxy for vel PID min: 0.0, default: 1.5, max: 5.0
+- \b "~Pz_v" : \b [double] Pz for vel PID min: 0.0, default: 2.7, max: 5.0
+- \b "~Ixy_v" : \b [double] Ixy for vel PID min: 0.0, default: 0.05, max: 5.0
+- \b "~Iz_v" : \b [double] Iz for vel PID min: 0.0, default: 0.0, max: 5.0
+- \b "~Dxy_v" : \b [double] Dxy for vel PID min: 0.0, default: 0.0, max: 5.0
+- \b "~Dz_v" : \b [double] Dz for vel PID min: 0.0, default: 0.0, max: 5.0
+- \b "~Pxy_a" : \b [double] Pxy for acc PID min: 0.0, default: 0.001, max: 5.0
+- \b "~Pz_a" : \b [double] Pz for acc PID min: 0.0, default: 0.002, max: 5.0
+- \b "~Ixy_a" : \b [double] Ixy for acc PID min: 0.0, default: 0.0, max: 5.0
+- \b "~Iz_a" : \b [double] Iz for acc PID min: 0.0, default: 0.0, max: 5.0
+- \b "~Dxy_a" : \b [double] Dxy for acc PID min: 0.0, default: 0.0, max: 5.0
+- \b "~Dz_a" : \b [double] Dz for acc PID min: 0.0, default: 0.0, max: 5.0
+- \b "~Mz" : \b [double] map acc to thrust min: 0.0, default: 0.0, max: 5.0
+- \b "~Mxy" : \b [double] map acc to thrust min: 0.0, default: 0.0, max: 10.0
+

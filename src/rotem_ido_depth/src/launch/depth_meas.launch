@@ -1,0 +1,4 @@
+<launch>
+ <node pkg="rotem_ido_depth" type="depth_meas.py" name="depth_meas"  output="screen">
+</node>
+</launch>
