@@ -1,0 +1,8 @@
+prefix=/home/yoni/catkin_ws/devel
+
+Name: amir_test
+Description: Description of amir_test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yoni/catkin_ws/devel/lib 
+Requires: 
