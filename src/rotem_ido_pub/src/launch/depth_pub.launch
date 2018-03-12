@@ -1,4 +1,0 @@
-<launch>
- <node pkg="rotem_ido_pub" type="depth_pub.py" name="depth_pub"  output="screen">
-</node>
-</launch>

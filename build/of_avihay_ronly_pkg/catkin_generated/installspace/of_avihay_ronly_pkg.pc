@@ -1,8 +1,0 @@
-prefix=/home/yoni/catkin_ws/install
-
-Name: of_avihay_ronly_pkg
-Description: Description of of_avihay_ronly_pkg
-Version: 0.0.0
-Cflags: -I/home/yoni/catkin_ws/install/include
-Libs: -L/home/yoni/catkin_ws/install/lib 
-Requires: rospy message_runtime

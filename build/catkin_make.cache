@@ -1,2 +1,0 @@
-demo:depth_camera_control:of_avihay_ronly_pkg:offboard:rotem_ido_depth:rotem_ido_pub:show_img_please:tum_ardrone:yuval_test
--DCATKIN_DEVEL_PREFIX=/home/yoni/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yoni/catkin_ws/install -G Unix Makefiles
