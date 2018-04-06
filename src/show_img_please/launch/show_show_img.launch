@@ -1,4 +1,0 @@
-<launch>
- <node pkg="show_img_please" type="show_show_img.py" name="show_show_img"  output="screen">
-</node>
-</launch>

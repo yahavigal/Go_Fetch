@@ -1,4 +1,0 @@
-<launch>
-  <node pkg="yuval_test" type="read_depth_jacob.py" name="node_depth_test"  output="screen">
-  </node>
-</launch>

@@ -117,15 +117,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/yoni/catkin_ws/build/gtest/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/show_img_please/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/demo/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/depth_camera_control/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/of_avihay_ronly_pkg/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/rotem_ido_depth/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/rotem_ido_pub/cmake_install.cmake")
   include("/home/yoni/catkin_ws/build/offboard/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/tum_ardrone/cmake_install.cmake")
-  include("/home/yoni/catkin_ws/build/yuval_test/cmake_install.cmake")
+  include("/home/yoni/catkin_ws/build/ex1/cmake_install.cmake")
 
 endif()
 
